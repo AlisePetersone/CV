@@ -5,7 +5,9 @@ h1 {
     margin: 0; 
     padding: 0;
 }
-.photos{
-    
+.photos {
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;
 }
 
