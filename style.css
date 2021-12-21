@@ -6,6 +6,10 @@
 h1 {
     text-align: center;
 }
+h2 {
+    text-align: left;
+    margin-left: -40px;
+}
 
 
 .photos {
@@ -22,8 +26,8 @@ h1 {
     justify-content: center;
 }
 .izglītība {
+    background-color: lightgray;
     /* display: flex; */
-    background-image: -webkit-image-set()
     margin-top: 30px;
     padding-left: 60px;
     /* justify-content: ; */
@@ -31,21 +35,25 @@ h1 {
 
 }
 .darba-pieredze {
+    background-color: lightsteelblue;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .valodu-prasmes {
+    background-color: lightgray;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .citas-prasmes {
+    background-color: lightsteelblue;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .personiskas-ipasibas {
+    background-color: lightgray;
     margin-top: 30px;
     padding-left: 60px;
     margin-bottom: 60px;
