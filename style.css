@@ -23,6 +23,7 @@ h1 {
 }
 .izglītība {
     /* display: flex; */
+    background-image: -webkit-image-set()
     margin-top: 30px;
     padding-left: 60px;
     /* justify-content: ; */
