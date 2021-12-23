@@ -11,25 +11,27 @@ h2 {
     margin-left: -40px;
 }
 body {
-    background-image: url("./fons.png");
+    /* background-image: url("./fons3.png");
+    background-position: center;
+    background-size: 100px; */
 }
 
 
 .photos {
     display: flex;
-    /* background-color: lightgray; */
+    background-color: lightgray;
     justify-content: center;
 }
 .par-mani {
     display: flex;
-    /* background-color: lightsteelblue; */
+    background-color: lightsteelblue;
     padding: 20px;
     margin-top: 30px;
     font-size: large;
     justify-content: center;
 }
 .izglītība {
-    /* background-color: lightgray; */
+    background-color: lightgray;
     /* display: flex; */
     margin-top: 30px;
     padding-left: 60px;
@@ -38,25 +40,25 @@ body {
 
 }
 .darba-pieredze {
-    /* background-color: lightsteelblue; */
+    background-color: lightsteelblue;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .valodu-prasmes {
-    /* background-color: lightgray; */
+    background-color: lightgray;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .citas-prasmes {
-    /* background-color: lightsteelblue; */
+    background-color: lightsteelblue;
     margin-top: 30px;
     padding-left: 60px;
 }
 
 .personiskas-ipasibas {
-    /* background-color: lightgray; */
+    background-color: lightgray;
     margin-top: 30px;
     padding-left: 60px;
     margin-bottom: 60px;
