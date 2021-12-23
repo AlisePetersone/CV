@@ -1,6 +1,7 @@
 * {
     margin: 0; 
     padding: 0;
+    font-family:monospace
 }
 
 h1 {
@@ -9,11 +10,6 @@ h1 {
 h2 {
     text-align: left;
     margin-left: -40px;
-}
-body {
-    /* background-image: url("./fons3.png");
-    background-position: center;
-    background-size: 100px; */
 }
 
 
@@ -48,7 +44,7 @@ body {
 .valodu-prasmes {
     background-color: lightgray;
     margin-top: 30px;
-    padding-left: 60px;
+    padding-left: 60px;   
 }
 
 .citas-prasmes {
